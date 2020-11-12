@@ -1,0 +1,8 @@
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\bin\Debug\impresor.exe.config
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\bin\Debug\impresor.exe
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\bin\Debug\impresor.pdb
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\obj\Debug\impresor.Properties.Resources.resources
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\obj\Debug\impresor.csproj.GenerateResource.Cache
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\obj\Debug\impresor.exe
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\obj\Debug\impresor.pdb
+c:\users\nn\documents\visual studio 2012\Projects\impresor\impresor\obj\Debug\impresor.Form1.resources
