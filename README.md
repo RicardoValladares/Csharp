@@ -1,4 +1,4 @@
-# Impresora_de_Ticket
+# Impresora de Ticket
 
 Pequeño ejemplo hecho en C# Net Framework 4.5 para los que quieren imprimir facturas en postick
 
