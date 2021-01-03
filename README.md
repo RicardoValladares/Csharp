@@ -1,6 +1,6 @@
 # Impresora_de_Ticket
 
-Pequeño ejemplo hecho en C# NetFramework 4.5 para los que quieren imprimir facturas en tickets
+Pequeño ejemplo hecho en C# NetFramework 4.5 para los que quieren imprimir facturas en postick
 
 ![Captura de Pantalla](https://raw.githubusercontent.com/RicardoValladares/Impresora_de_Ticket/main/ticket.png)
 
