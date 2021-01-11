@@ -8,17 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace impresora
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
+namespace impresora{
+    public partial class Form1 : Form{
+        public Form1(){
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
+        private void button2_Click(object sender, EventArgs e){
             Ticket ticket = new Ticket();
             ticket.HeaderImage = picturebox1.Image;
             ticket.AddHeaderLine("Super Mercado");
