@@ -24,4 +24,3 @@ ticket.AddFooterLine("Gracias por su preferencia...");
 //ticket.PrintTicket("80mm Series Printer"); especificando nombre de la impresora
 
 ticket.PrintTicket(); //impresora primaria por defecto
-
