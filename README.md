@@ -4,7 +4,8 @@ Pequeño ejemplo hecho en C# Net Framework 4.5 para los que quieren imprimir fac
 
 ![Captura de Pantalla](https://raw.githubusercontent.com/RicardoValladares/Impresora_de_Ticket/main/ticket.png)
 
-~~~
+```cs
+
 Ticket ticket = new Ticket();
 ticket.HeaderImage = picturebox1.Image;
 ticket.AddHeaderLine("Super Mercado");
@@ -15,4 +16,5 @@ ticket.AddTotal("TOTAL","2.99");
 ticket.AddFooterLine("Gracias por su preferencia...");
 //ticket.PrintTicket("80mm Series Printer"); especificando nombre de la impresora
 ticket.PrintTicket(); //impresora primaria por defecto
-~~~
+
+```
