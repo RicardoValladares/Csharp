@@ -18,3 +18,4 @@ ticket.AddFooterLine("Gracias por su preferencia...");
 ticket.PrintTicket(); //impresora primaria por defecto
 
 ```
+
