@@ -2,7 +2,7 @@
 
 Pequeño ejemplo hecho en C# Net Framework 4.5 para los que quieren imprimir facturas en postick
 
-![Captura de Pantalla](https://raw.githubusercontent.com/RicardoValladares/Impresora_de_Ticket/main/ticket.png)
+![Captura de Pantalla](https://raw.githubusercontent.com/RicardoValladares/Csharp/main/1%20Impresora%20de%20ticket/ticket.png)
 
 ```cs
 
