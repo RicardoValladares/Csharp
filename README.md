@@ -1,7 +1,8 @@
 # Csharp
 Ejemplo avanzados para programar en Csharp.
 
-
-compilar con mono en linux
-
+compilar con mono en linux:
+```bash
 xbuild
+``` 
+
