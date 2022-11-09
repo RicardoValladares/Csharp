@@ -1,0 +1,4 @@
+c:\users\nn\documents\visual studio 2012\Projects\servidor\servidor\bin\Debug\servidor.exe
+c:\users\nn\documents\visual studio 2012\Projects\servidor\servidor\bin\Debug\servidor.pdb
+c:\users\nn\documents\visual studio 2012\Projects\servidor\servidor\obj\Debug\servidor.exe
+c:\users\nn\documents\visual studio 2012\Projects\servidor\servidor\obj\Debug\servidor.pdb

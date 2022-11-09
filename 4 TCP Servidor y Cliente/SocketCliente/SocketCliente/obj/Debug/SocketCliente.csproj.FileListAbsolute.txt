@@ -1,0 +1,8 @@
+c:\users\nn\documents\visual studio 2012\Projects\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe.config
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\bin\Debug\SocketCliente.pdb
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\obj\Debug\SocketCliente.Form1.resources
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\obj\Debug\SocketCliente.Properties.Resources.resources
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.GenerateResource.Cache
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\obj\Debug\SocketCliente.exe
+C:\Users\nn\Documents\Visual Studio 2012\Projects\SocketCliente\SocketCliente\obj\Debug\SocketCliente.pdb

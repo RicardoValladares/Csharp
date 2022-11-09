@@ -1,0 +1,8 @@
+c:\users\nn\documents\visual studio 2012\Projects\impresora\impresora\bin\Debug\impresora.exe.config
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\obj\Debug\impresora.Properties.Resources.resources
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\obj\Debug\impresora.csproj.GenerateResource.Cache
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\bin\Debug\impresora.exe
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\bin\Debug\impresora.pdb
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\obj\Debug\impresora.Form1.resources
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\obj\Debug\impresora.exe
+C:\Users\nn\Documents\Visual Studio 2012\Projects\impresora\impresora\obj\Debug\impresora.pdb
